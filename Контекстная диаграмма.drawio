@@ -1,0 +1,45 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.8.1">
+  <diagram name="Страница — 1" id="RtK_Wq4SpWYBaDu56hCy">
+    <mxGraphModel dx="1386" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yWj0LaOKMihRAs8CbQv--9" value="загружает&lt;div&gt;файлы&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=top;" edge="1" parent="1" source="2" target="yWj0LaOKMihRAs8CbQv--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yWj0LaOKMihRAs8CbQv--10" value="внедряет" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=middle;align=left;" edge="1" parent="1" source="2" target="yWj0LaOKMihRAs8CbQv--6">
+          <mxGeometry x="0.1429" y="6" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="630" />
+              <mxPoint x="414" y="630" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yWj0LaOKMihRAs8CbQv--11" value="внедряет" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=top;" edge="1" parent="1" source="2" target="yWj0LaOKMihRAs8CbQv--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2" value="Платформа для создания продвинутых схем, таблиц и т.д" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="317" y="550" width="194" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yWj0LaOKMihRAs8CbQv--8" value="использует" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1" source="3" target="2">
+          <mxGeometry x="0.1111" y="6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3" value="Пользователь&#xa;(Человек, использующий программу)" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="313" y="390" width="202" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yWj0LaOKMihRAs8CbQv--4" value="DMS&#xa;(Система управления документами)" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="600" y="550" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yWj0LaOKMihRAs8CbQv--5" value="Сервер&#xa;(Сервер, на котором будут хранятся все шаблоны пользователя)" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="20" y="540" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yWj0LaOKMihRAs8CbQv--6" value="IDnow&#xa;(Система проверки личности)" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="313" y="690" width="202" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
